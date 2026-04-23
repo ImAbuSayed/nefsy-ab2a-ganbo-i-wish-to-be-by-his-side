@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> with open("lyric-raw.txt", "w", encoding="utf-8") as f:
+> f.write("""
+> يا حبيبة الروح تعالي في أحضاني.. يا ليلي..
+> وشوفي الشوق في عيوني بيناديكي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
