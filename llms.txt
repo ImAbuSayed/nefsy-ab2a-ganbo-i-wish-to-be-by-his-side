@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 23, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nefsy-ab2a-ganbo-i-wish-to-be-by-his-side/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Nefsy Ab2a Ganbo – I Wish to Be by His Side](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
