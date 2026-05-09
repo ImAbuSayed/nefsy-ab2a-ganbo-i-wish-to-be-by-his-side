@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nefsy Ab2a Ganbo – I Wish to Be by His Side
+
+This log tracks the cryptographic history and versioning for the song **Nefsy Ab2a Ganbo – I Wish to Be by His Side** (nefsy-ab2a-ganbo-i-wish-to-be-by-his-side).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:41:13.501452 | `v1` | `6c42245478e95dab1de86c947342d7bff13f04d65ea363f88267177c7ca5b06f` | `6730cb3bd4452c39d2e8057410e9e9c9549a62fd5d0e82b868e4645ea7f11a0d` | `2026-05-09_nefsy-ab2a-ganbo-i-wish-to-be-by-his-side-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
